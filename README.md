@@ -22,4 +22,4 @@ $ git remote add gulp git@github.com:aixingzhong/gulp.git
 8、添加所有更改文件，添加上传注释,上传文件:
 $ git add .
 $ git commit -m "first commit"
-$ git push origin master
+$ git push origin master   //（git push --set-upstream git@github.com:aixingzhong/gulp.git master）
